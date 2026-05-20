@@ -6,7 +6,7 @@ This software is a Command Line Interface (CLI) Personal Expense Tracker. It use
 
 My purpose for writing this software is to gain hands-on experience with Python backend scripting, NoSQL document databases, and the Firebase Admin SDK.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gAyvwfpg988)
 
 # Cloud Database
 
