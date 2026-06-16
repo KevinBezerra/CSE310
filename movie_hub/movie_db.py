@@ -2,7 +2,7 @@
 Movie Rating Database
 =====================
 A command-line application to track movies you've watched and their ratings.
-Uses Python's built-in sqlite3 library — no external packages required.
+Uses Python's built-in sqlite3 library, with no external packages required.
 
 Usage:
     python movie_db.py
